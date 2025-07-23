@@ -10,6 +10,9 @@ __“Анализ данных о сердечно-сосудистых забо
 
 
 - Цель: поиск инсайтов, стоставление рекомендаций стейкхолдерам, построение модели классификации наличия заболевания.
--  
+- Метод решения: проект выполнялся в Google Colaboratory с использованием библиотек.
 
-[База данных](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset/data)
+
+[База данных для проекта](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset/data)
+
+[Документация к дипломному проекту](https://docs.google.com/document/d/1KJGL7mRR3yJ1wV6gzQ-v9noZCDHl3ILmP2BNL7nm0BU/edit?tab=t.0)
